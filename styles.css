@@ -99,7 +99,7 @@ body {
   opacity: 1;
 }
 #header:hover {
-  transition: margin-top 0.875s;
+  transition: margin-top 0.4s;
   margin-top: 0px;
 }
 .blerb {
